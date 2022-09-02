@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/ryanfrance/go-course/pkg/config"
-	"github.com/ryanfrance/go-course/pkg/models"
+	"github.com/ryanfrance/B-BBookingAndReservations/pkg/config"
+	"github.com/ryanfrance/B-BBookingAndReservations/pkg/models"
 )
 
 var app *config.AppConfig
