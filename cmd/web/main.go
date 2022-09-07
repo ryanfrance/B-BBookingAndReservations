@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/ryanfrance/B-BBookingAndReservations/pkg/config"
-	"github.com/ryanfrance/B-BBookingAndReservations/pkg/handlers"
-	"github.com/ryanfrance/B-BBookingAndReservations/pkg/render"
+	"github.com/ryanfrance/B-BBookingAndReservations/internal/config"
+	"github.com/ryanfrance/B-BBookingAndReservations/internal/handlers"
+	"github.com/ryanfrance/B-BBookingAndReservations/internal/render"
 )
 
 const portNumber = ":8080"
