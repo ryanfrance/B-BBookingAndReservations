@@ -1,0 +1,2 @@
+# Ignore migrations config file
+./database.yml
