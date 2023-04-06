@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Installation <a name = "installing"></a>
 
-Clone down then compile and run with: `go run ./web/cmd` <br>
+Clone down then run: `./run.sh` to compile and serve <br>
 This will spin up a http server viewable from localhost and whatever port you specify in `main.go` (default is `:8080`)
 
 ## Notes <a name = "notes"></a>
